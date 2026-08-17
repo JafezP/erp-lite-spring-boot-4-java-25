@@ -1,1 +1,3 @@
 rootProject.name = 'erp-lite'
+
+include 'erp-api', 'erp-application', 'erp-common', 'erp-domain','erp-infrastructure'
